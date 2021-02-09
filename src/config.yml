@@ -1,0 +1,6 @@
+prefix: '&8&l| &b&lPopper &8&l|'
+pop-height-amount: 5
+pop-vertical-amount: 5
+cooldown: 10
+toggle:
+  NickDoxa: true

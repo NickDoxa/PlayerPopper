@@ -1,0 +1,9 @@
+main: com.doxa.pop.Main
+name: PlayerPopper
+version: 1.2
+description: PlayerPopper by Nick Doxa.
+api-version: 1.16
+author: Nick Doxa
+commands:
+  popper:
+    description: main command for PlayerPopper!
